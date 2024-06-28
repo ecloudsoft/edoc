@@ -1,0 +1,68 @@
+{
+  "rootpath": "https://ecloudsoft.github.io/ecprint/sample",
+  "details": [
+    {
+      "name": "サンプル請求書01",
+      "group": "发票",
+      "dataurl": "/data/datajs/サンプル請求書01.json",
+      "configurl": "/data/config/サンプル請求書01.json",
+      "imgurl": "/imgs/サンプル請求書01.png",
+      "descrption": "請求書サンプル<br>A4 (h*w=297mm*210mm)",
+      "lastupdate":"20240206"
+    },
+    {
+      "name": "サンプル請求書02",
+      "group": "发票",
+      "dataurl": "/data/datajs/サンプル請求書02.json",
+      "configurl": "/data/config/サンプル請求書02.json",
+      "imgurl": "/imgs/サンプル請求書02.png",
+      "descrption": "請求書サンプル<br>A4 (h*w=297mm*210mm)",
+      "lastupdate":"20240206"
+    },
+    {
+      "name": "サンプルレシート01",
+      "group": "收据",
+      "dataurl": "/data/datajs/サンプルレシート01.json",
+      "configurl": "/data/config/サンプルレシート01.json",
+      "imgurl": "/imgs/レシート省略図.png",
+      "descrption": "レシートサンプル<br>ｶｽﾀﾏｲｽ (h*w=297mm*210mm)",
+      "lastupdate":"20240207"
+    },
+    {
+      "name": "サンプルBAR-QR(横)",
+      "group": "条码",
+      "dataurl": "/data/datajs/サンプルBAR-QR(横).json",
+      "configurl": "/data/config/サンプルBAR-QR(横).json",
+      "imgurl": "/imgs/サンプルBAR-QR(横).png",
+      "descrption": "サンプルBAR-QR(横)サンプル<br>ｶｽﾀﾏｲｽ (h*w=91mm*182mm)",
+      "lastupdate":"20240207"
+    },
+    {
+      "name": "サンプル領収書01",
+      "group": "收据",
+      "dataurl": "/data/datajs/サンプル領収書01.json",
+      "configurl": "/data/config/サンプル領収書01.json",
+      "imgurl": "/imgs/サンプル領収書01.png",
+      "descrption": "領収書サンプル<br>B6 (h*w=128mm*182mm)",
+      "lastupdate":"20240216"
+    },
+    {
+      "name": "申告書サンプル",
+      "group": "申报表",
+      "dataurl": "/data/datajs/申告書サンプル.json",
+      "configurl": "/data/config/申告書サンプル.json",
+      "imgurl": "/imgs/申告書サンプル.png",
+      "descrption": "申告書サンプル(レイアウト取り込み)<br>A3 (h*w=420mm*297mm)",
+      "lastupdate":"20240222"
+    },
+    {
+      "name": "チャートサンプル",
+      "group": "图表",
+      "dataurl": "/data/datajs/サンプルチャート.json",
+      "configurl": "/data/config/サンプルチャート.json",
+      "imgurl": "/imgs/チャート省略図.png",
+      "descrption": "チャートサンプル<br>ｶｽﾀﾏｲｽ (h*w=725mm*210mm)",
+      "lastupdate":"20240301"
+    }
+  ]
+}

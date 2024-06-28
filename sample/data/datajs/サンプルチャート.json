@@ -1,0 +1,70 @@
+{
+  "histogramTable": [
+    {
+      "mon": "100",
+      "tue": "130",
+      "wed": "120",
+      "thu": "150",
+      "fri": "200",
+      "sat": "160",
+      "sun": "140"
+    },
+    {
+      "mon": "120",
+      "tue": "150",
+      "wed": "140",
+      "thu": "170",
+      "fri": "220",
+      "sat": "180",
+      "sun": "160"
+    }
+  ],
+  "pieChartTable": [
+    {
+      "mon": "100",
+      "tue": "200",
+      "wed": "300"
+    }
+  ],
+  "radarChartTable": [
+    {
+      "mon": "20",
+      "tue": "40",
+      "wed": "60"
+    },
+    {
+      "mon": "80",
+      "tue": "60",
+      "wed": "40"
+    }
+  ],
+  "scatterPlotTable": [
+    {
+      "xValue": "10",
+      "yValue": "20"
+    },
+    {
+      "xValue": "20",
+      "yValue": "30"
+    },
+    {
+      "xValue": "30",
+      "yValue": "40"
+    },
+    {
+      "xValue": "40",
+      "yValue": "50"
+    }
+  ],
+  "funnelChartTable": [
+    {
+      "mon": "30",
+      "tue": "50",
+      "wed": "60",
+      "thu": "70",
+      "fri": "80",
+      "sat": "90",
+      "sun": "100"
+    }
+  ]
+}

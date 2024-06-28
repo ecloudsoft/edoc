@@ -1,0 +1,2014 @@
+{
+    "panels": [
+        {
+            "index": 0,
+            "name": 1,
+            "paperType": "A4",
+            "height": 297,
+            "width": 210,
+            "paperHeader": 180,
+            "paperFooter": 586.5,
+            "printElements": [
+                {
+                    "options": {
+                        "left": 15,
+                        "top": 13.5,
+                        "height": 72,
+                        "width": 124.5,
+                        "field": "logo",
+                        "fit": "",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "right": 139.5,
+                        "bottom": 85.5,
+                        "vCenter": 77.25,
+                        "hCenter": 49.5
+                    },
+                    "printElementType": {
+                        "title": "图片",
+                        "type": "image"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 211.5,
+                        "top": 15,
+                        "height": 16.5,
+                        "width": 139.5,
+                        "title": "ご利用明細書",
+                        "right": 639.25,
+                        "bottom": 82.5,
+                        "vCenter": 364.25,
+                        "hCenter": 61.5,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "fontSize": 13.5,
+                        "fontWeight": "600",
+                        "textAlign": "center",
+                        "lineHeight": 15.75
+                    },
+                    "printElementType": {
+                        "title": "长文",
+                        "type": "longText"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 211.5,
+                        "top": 31.5,
+                        "height": 24,
+                        "width": 139.5,
+                        "title": "Description",
+                        "right": 351,
+                        "bottom": 54.75,
+                        "vCenter": 281.25,
+                        "hCenter": 42.75,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "fontSize": 11.25,
+                        "fontWeight": "bold",
+                        "textAlign": "center"
+                    },
+                    "printElementType": {
+                        "title": "长文",
+                        "type": "longText"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 444,
+                        "top": 46.5,
+                        "height": 15,
+                        "width": 151.5,
+                        "title": "登録番号",
+                        "right": 602.25,
+                        "bottom": 61.5,
+                        "vCenter": 526.5,
+                        "hCenter": 54,
+                        "field": "loginNo",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 444,
+                        "top": 63,
+                        "height": 15,
+                        "width": 151.5,
+                        "right": 594.75,
+                        "bottom": 75,
+                        "vCenter": 519,
+                        "hCenter": 67.5,
+                        "field": "Address01",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0,
+                        "hideTitle": true
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 444,
+                        "top": 79.5,
+                        "height": 15,
+                        "width": 151.5,
+                        "right": 596.25,
+                        "bottom": 99,
+                        "vCenter": 520.5,
+                        "hCenter": 91.5,
+                        "field": "T",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0,
+                        "hideTitle": true
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 444,
+                        "top": 96,
+                        "height": 15,
+                        "width": 151.5,
+                        "title": " ",
+                        "right": 596.25,
+                        "bottom": 114.75,
+                        "vCenter": 520.5,
+                        "hCenter": 107.25,
+                        "field": "Address02",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "fontSize": 7.5,
+                        "qrCodeLevel": 0,
+                        "hideTitle": true
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 15,
+                        "top": 99,
+                        "height": 15,
+                        "width": 69,
+                        "title": "お名前",
+                        "right": 85.5,
+                        "bottom": 120,
+                        "vCenter": 44.25,
+                        "hCenter": 109.5,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "fontSize": 11.25,
+                        "fontWeight": "bold",
+                        "letterSpacing": 3
+                    },
+                    "printElementType": {
+                        "title": "长文",
+                        "type": "longText"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 444,
+                        "top": 112.5,
+                        "height": 15,
+                        "width": 151.5,
+                        "title": "Tel",
+                        "right": 596.25,
+                        "bottom": 126,
+                        "vCenter": 520.5,
+                        "hCenter": 118.5,
+                        "field": "Tel",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 15,
+                        "top": 114,
+                        "height": 13.5,
+                        "width": 70.5,
+                        "title": "Guest Name",
+                        "right": 74.25,
+                        "bottom": 127.5,
+                        "vCenter": 39,
+                        "hCenter": 120.75,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "fontSize": 9
+                    },
+                    "printElementType": {
+                        "title": "长文",
+                        "type": "longText"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 85.5,
+                        "top": 114,
+                        "height": 15,
+                        "width": 297,
+                        "title": " ",
+                        "right": 351.75,
+                        "bottom": 135,
+                        "vCenter": 238.5,
+                        "hCenter": 114,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "fontSize": 11.25,
+                        "fontWeight": "bold",
+                        "field": "guestName",
+                        "hideTitle": true
+                    },
+                    "printElementType": {
+                        "title": "长文",
+                        "type": "longText"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 313.5,
+                        "top": 114,
+                        "height": 15,
+                        "width": 69,
+                        "title": "様",
+                        "right": 384,
+                        "bottom": 127.5,
+                        "vCenter": 349.5,
+                        "hCenter": 120,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "fontSize": 11.25,
+                        "fontWeight": "bold",
+                        "letterSpacing": 3,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "长文",
+                        "type": "longText"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 15,
+                        "top": 127.5,
+                        "height": 9,
+                        "width": 367.5,
+                        "borderWidth": 0.75,
+                        "right": 383.25,
+                        "bottom": 135.75,
+                        "vCenter": 199.5,
+                        "hCenter": 131.25
+                    },
+                    "printElementType": {
+                        "title": "横线",
+                        "type": "hline"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 444,
+                        "top": 129,
+                        "height": 15,
+                        "width": 151.5,
+                        "title": "Fax",
+                        "right": 592.5,
+                        "bottom": 139.5,
+                        "vCenter": 516.75,
+                        "hCenter": 132,
+                        "field": "Fax",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 15,
+                        "top": 139.5,
+                        "height": 15,
+                        "width": 69,
+                        "title": "お部屋",
+                        "right": 84,
+                        "bottom": 156,
+                        "vCenter": 49.5,
+                        "hCenter": 148.5,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "fontSize": 11.25,
+                        "fontWeight": "bold",
+                        "letterSpacing": 3
+                    },
+                    "printElementType": {
+                        "title": "长文",
+                        "type": "longText"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 444,
+                        "top": 145.5,
+                        "height": 15,
+                        "width": 151.5,
+                        "title": "Email",
+                        "right": 595.5,
+                        "bottom": 163.5,
+                        "vCenter": 519.75,
+                        "hCenter": 156,
+                        "field": "Email",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 85.5,
+                        "top": 153,
+                        "height": 15,
+                        "width": 297,
+                        "title": " ",
+                        "right": 369,
+                        "bottom": 168,
+                        "vCenter": 220.5,
+                        "hCenter": 160.5,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "fontSize": 11.25,
+                        "fontWeight": "bold",
+                        "field": "room",
+                        "hideTitle": true
+                    },
+                    "printElementType": {
+                        "title": "长文",
+                        "type": "longText"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 16.5,
+                        "top": 154.5,
+                        "height": 13.5,
+                        "width": 70.5,
+                        "title": "Room",
+                        "right": 72.75,
+                        "bottom": 168,
+                        "vCenter": 37.5,
+                        "hCenter": 161.25,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "fontSize": 9
+                    },
+                    "printElementType": {
+                        "title": "长文",
+                        "type": "longText"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 444,
+                        "top": 163.5,
+                        "height": 15,
+                        "width": 151.5,
+                        "title": "URL",
+                        "right": 599.25,
+                        "bottom": 161.25,
+                        "vCenter": 523.5,
+                        "hCenter": 153.75,
+                        "field": "URL",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 15,
+                        "top": 168,
+                        "height": 9,
+                        "width": 367.5,
+                        "borderWidth": 0.75,
+                        "right": 366,
+                        "bottom": 176.25,
+                        "vCenter": 182.25,
+                        "hCenter": 171.75
+                    },
+                    "printElementType": {
+                        "title": "横线",
+                        "type": "hline"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 15,
+                        "top": 186,
+                        "height": 237,
+                        "width": 565.5,
+                        "field": "table01",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "tableBorder": "noBorder",
+                        "tableHeaderBorder": "noBorder",
+                        "tableHeaderCellBorder": "noBorder",
+                        "tableHeaderBackground": "#a8a8a8",
+                        "tableBodyRowBorder": "noBorder",
+                        "tableBodyCellBorder": "noBorder",
+                        "tableFooterBorder": "noBorder",
+                        "tableFooterCellBorder": "noBorder",
+                        "columns": [
+                            [
+                                {
+                                    "width": 26.656492104592573,
+                                    "title": "No.\n",
+                                    "titleSync": false,
+                                    "field": "No",
+                                    "checked": true,
+                                    "columnId": "No",
+                                    "fixed": false,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "align": "center",
+                                    "halign": "center",
+                                    "tableTextType": "sequence",
+                                    "tableQRCodeLevel": 0,
+                                    "tableSummaryTitle": true,
+                                    "tableSummary": ""
+                                },
+                                {
+                                    "width": 91.27679210459257,
+                                    "title": "ご利用日\nDate",
+                                    "titleSync": false,
+                                    "field": "date",
+                                    "checked": true,
+                                    "columnId": "date",
+                                    "fixed": false,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "align": "center",
+                                    "halign": "center",
+                                    "tableQRCodeLevel": 0,
+                                    "tableSummaryTitle": true,
+                                    "tableSummary": ""
+                                },
+                                {
+                                    "width": 132.59418803803368,
+                                    "title": "摘要／項目\nReference",
+                                    "titleSync": false,
+                                    "field": "reference",
+                                    "checked": true,
+                                    "columnId": "reference",
+                                    "fixed": false,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "align": "left",
+                                    "halign": "center",
+                                    "tableQRCodeLevel": 0,
+                                    "tableSummaryTitle": true,
+                                    "tableSummary": ""
+                                },
+                                {
+                                    "width": 52.509940273601885,
+                                    "title": "単価\nPrice",
+                                    "titleSync": false,
+                                    "field": "price",
+                                    "checked": true,
+                                    "columnId": "price",
+                                    "fixed": false,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "align": "right",
+                                    "halign": "center",
+                                    "tableQRCodeLevel": 0,
+                                    "tableSummaryTitle": true,
+                                    "tableSummary": ""
+                                },
+                                {
+                                    "width": 53.077308801206186,
+                                    "title": "消費税\nTax",
+                                    "titleSync": false,
+                                    "field": "tax",
+                                    "checked": true,
+                                    "columnId": "tax",
+                                    "fixed": false,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "align": "right",
+                                    "halign": "center",
+                                    "tableQRCodeLevel": 0,
+                                    "tableSummaryTitle": true,
+                                    "tableSummary": ""
+                                },
+                                {
+                                    "width": 58.089271011852716,
+                                    "title": "数量\nQ'ty",
+                                    "titleSync": false,
+                                    "field": "qty",
+                                    "checked": true,
+                                    "columnId": "qty",
+                                    "fixed": false,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "align": "right",
+                                    "halign": "center",
+                                    "tableQRCodeLevel": 0,
+                                    "tableSummaryTitle": true,
+                                    "tableSummary": ""
+                                },
+                                {
+                                    "width": 92.12680368415192,
+                                    "title": "ご利用金額\nCharge",
+                                    "titleSync": false,
+                                    "field": "charge",
+                                    "checked": true,
+                                    "columnId": "charge",
+                                    "fixed": false,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "align": "right",
+                                    "halign": "center",
+                                    "tableQRCodeLevel": 0,
+                                    "tableSummaryTitle": true,
+                                    "tableSummary": ""
+                                },
+                                {
+                                    "width": 59.16920398196848,
+                                    "title": "お預り金額\nCredit",
+                                    "titleSync": false,
+                                    "field": "credit",
+                                    "checked": true,
+                                    "columnId": "credit",
+                                    "fixed": false,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "align": "right",
+                                    "halign": "center",
+                                    "tableQRCodeLevel": 0,
+                                    "tableSummaryTitle": true,
+                                    "tableSummary": ""
+                                },
+                                {
+                                    "width": 85.25,
+                                    "checked": false,
+                                    "fixed": false,
+                                    "rowspan": 1,
+                                    "colspan": 1
+                                },
+                                {
+                                    "width": 85.25,
+                                    "checked": false,
+                                    "fixed": false,
+                                    "rowspan": 1,
+                                    "colspan": 1
+                                }
+                            ]
+                        ]
+                    },
+                    "printElementType": {
+                        "title": "表格",
+                        "type": "table",
+                        "editable": true,
+                        "columnDisplayEditable": true,
+                        "columnDisplayIndexEditable": true,
+                        "columnTitleEditable": true,
+                        "columnResizable": true,
+                        "columnAlignEditable": true,
+                        "isEnableEditField": true,
+                        "isEnableContextMenu": true,
+                        "isEnableInsertRow": true,
+                        "isEnableDeleteRow": true,
+                        "isEnableInsertColumn": true,
+                        "isEnableDeleteColumn": true,
+                        "isEnableMergeCell": true
+                    }
+                },
+                {
+                    "options": {
+                        "left": 310.5,
+                        "top": 424.5,
+                        "height": 15,
+                        "width": 270,
+                        "title": "注)※は軽減税率(8%)対象商品",
+                        "right": 580.5,
+                        "bottom": 369,
+                        "vCenter": 445.5,
+                        "hCenter": 361.5,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "textAlign": "right",
+                        "qrCodeLevel": 0
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 13.5,
+                        "top": 426,
+                        "height": 15,
+                        "width": 270,
+                        "title": "各ご利用項目の料金には消費税が含まれております。",
+                        "right": 138,
+                        "bottom": 369,
+                        "vCenter": 78,
+                        "hCenter": 361.5,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0,
+                        "hideTitle": true
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 13.5,
+                        "top": 442.5,
+                        "height": 15,
+                        "width": 270,
+                        "title": "宿泊税等が加算される場合には別途記載をいたしております。",
+                        "right": 281.25,
+                        "bottom": 402,
+                        "vCenter": 146.25,
+                        "hCenter": 394.5,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0,
+                        "hideTitle": true
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 13.5,
+                        "top": 456,
+                        "height": 27,
+                        "width": 567,
+                        "title": "ご請求金額 Balance Due ¥0",
+                        "right": 581.25,
+                        "bottom": 427.5,
+                        "vCenter": 297.75,
+                        "hCenter": 414,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "fontSize": 15,
+                        "backgroundColor": "#a8a8a8",
+                        "textAlign": "center",
+                        "contentPaddingTop": 6.75,
+                        "qrCodeLevel": 0
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 369,
+                        "top": 483,
+                        "height": 15,
+                        "width": 43.5,
+                        "title": "文本",
+                        "right": 412.5,
+                        "bottom": 444.75,
+                        "vCenter": 390.75,
+                        "hCenter": 435,
+                        "field": "table02Value01",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 424.5,
+                        "top": 483,
+                        "height": 15,
+                        "width": 43.5,
+                        "title": "文本",
+                        "right": 468,
+                        "bottom": 447.75,
+                        "vCenter": 442.5,
+                        "hCenter": 438,
+                        "field": "table02Value02",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 481.5,
+                        "top": 483,
+                        "height": 15,
+                        "width": 43.5,
+                        "title": "文本",
+                        "right": 524.25,
+                        "bottom": 447,
+                        "vCenter": 498.75,
+                        "hCenter": 437.25,
+                        "field": "table02Value03",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 537,
+                        "top": 483,
+                        "height": 15,
+                        "width": 43.5,
+                        "title": "文本",
+                        "right": 581.25,
+                        "bottom": 447,
+                        "vCenter": 561,
+                        "hCenter": 437.25,
+                        "field": "table02Value04",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 369,
+                        "top": 498,
+                        "height": 15,
+                        "width": 43.5,
+                        "title": "文本",
+                        "right": 413.25,
+                        "bottom": 457.5,
+                        "vCenter": 391.5,
+                        "hCenter": 450,
+                        "field": "table02Value05",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 424.5,
+                        "top": 498,
+                        "height": 15,
+                        "width": 43.5,
+                        "title": "文本",
+                        "right": 456,
+                        "bottom": 456.75,
+                        "vCenter": 434.25,
+                        "hCenter": 449.25,
+                        "field": "table02Value06",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 481.5,
+                        "top": 498,
+                        "height": 15,
+                        "width": 43.5,
+                        "title": "文本",
+                        "right": 524.25,
+                        "bottom": 459,
+                        "vCenter": 502.5,
+                        "hCenter": 451.5,
+                        "field": "table02Value07",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 537,
+                        "top": 498,
+                        "height": 15,
+                        "width": 43.5,
+                        "title": "文本",
+                        "right": 582,
+                        "bottom": 459,
+                        "vCenter": 560.25,
+                        "hCenter": 451.5,
+                        "field": "table02Value08",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 369,
+                        "top": 513,
+                        "height": 15,
+                        "width": 43.5,
+                        "title": "文本",
+                        "right": 410.25,
+                        "bottom": 471.75,
+                        "vCenter": 388.5,
+                        "hCenter": 464.25,
+                        "field": "table02Value09",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 424.5,
+                        "top": 513,
+                        "height": 15,
+                        "width": 43.5,
+                        "title": "文本",
+                        "right": 466.5,
+                        "bottom": 469.5,
+                        "vCenter": 444.75,
+                        "hCenter": 462,
+                        "field": "table02Value10",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 481.5,
+                        "top": 513,
+                        "height": 15,
+                        "width": 43.5,
+                        "title": "文本",
+                        "right": 522.75,
+                        "bottom": 471.75,
+                        "vCenter": 501,
+                        "hCenter": 464.25,
+                        "field": "table02Value11",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 537,
+                        "top": 513,
+                        "height": 15,
+                        "width": 43.5,
+                        "title": "文本",
+                        "right": 578.25,
+                        "bottom": 468.75,
+                        "vCenter": 556.5,
+                        "hCenter": 461.25,
+                        "field": "table02Value12",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 330,
+                        "top": 528,
+                        "height": 15,
+                        "width": 195,
+                        "title": "ご利用金額(税込) Total Charge*Tax included",
+                        "right": 524.25,
+                        "bottom": 487.5,
+                        "vCenter": 426.75,
+                        "hCenter": 480,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "长文",
+                        "type": "longText"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 537,
+                        "top": 528,
+                        "height": 15,
+                        "width": 43.5,
+                        "title": "文本",
+                        "right": 579,
+                        "bottom": 489.75,
+                        "vCenter": 557.25,
+                        "hCenter": 482.25,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0,
+                        "field": "table02Value13",
+                        "hideTitle": true,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 15,
+                        "top": 541.5,
+                        "height": 24,
+                        "width": 63,
+                        "title": "発行\nPublished by",
+                        "right": 562.75,
+                        "bottom": 551.25,
+                        "vCenter": 287.75,
+                        "hCenter": 530.25,
+                        "coordinateSync": false,
+                        "widthHeightSync": false
+                    },
+                    "printElementType": {
+                        "title": "长文",
+                        "type": "longText"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 372,
+                        "top": 543,
+                        "height": 15,
+                        "width": 153,
+                        "title": "サービス料 Service Charge",
+                        "right": 523.5,
+                        "bottom": 500.25,
+                        "vCenter": 447,
+                        "hCenter": 492.75,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "长文",
+                        "type": "longText"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 537,
+                        "top": 543,
+                        "height": 15,
+                        "width": 43.5,
+                        "title": "文本",
+                        "right": 582,
+                        "bottom": 501.75,
+                        "vCenter": 560.25,
+                        "hCenter": 494.25,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0,
+                        "field": "table02Value14",
+                        "hideTitle": true,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 84,
+                        "top": 550.5,
+                        "height": 15,
+                        "width": 100.5,
+                        "title": "文本",
+                        "right": 203.25,
+                        "bottom": 538.5,
+                        "vCenter": 143.25,
+                        "hCenter": 533.625,
+                        "field": "faxingName",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 15,
+                        "top": 565.5,
+                        "height": 16.5,
+                        "width": 199.5,
+                        "title": "日付 2024年01月22日 No. 20231228-38097",
+                        "right": 134.25,
+                        "bottom": 555,
+                        "vCenter": 74.25,
+                        "hCenter": 550.125,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 16.5,
+                        "top": 591,
+                        "height": 9,
+                        "width": 564,
+                        "borderWidth": 0.75,
+                        "right": 580.5,
+                        "bottom": 573,
+                        "vCenter": 298.5,
+                        "hCenter": 568.5
+                    },
+                    "printElementType": {
+                        "title": "横线",
+                        "type": "hline"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 15,
+                        "top": 597,
+                        "height": 18,
+                        "width": 213,
+                        "title": "領収証 Receipt",
+                        "right": 227.25,
+                        "bottom": 585.75,
+                        "vCenter": 120.75,
+                        "hCenter": 579,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0,
+                        "fontSize": 11.25,
+                        "fontWeight": "bold"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 381,
+                        "top": 597,
+                        "height": 16.5,
+                        "width": 199.5,
+                        "title": "日付 2024年01月22日 No. 20231228-38097",
+                        "right": 579,
+                        "bottom": 591.75,
+                        "vCenter": 479.25,
+                        "hCenter": 583.5,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 15,
+                        "top": 615,
+                        "height": 24,
+                        "width": 63,
+                        "title": "ご芳名\nGuest Name",
+                        "right": 78,
+                        "bottom": 612,
+                        "vCenter": 46.5,
+                        "hCenter": 600,
+                        "coordinateSync": false,
+                        "widthHeightSync": false
+                    },
+                    "printElementType": {
+                        "title": "长文",
+                        "type": "longText"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 78,
+                        "top": 624,
+                        "height": 15,
+                        "width": 100.5,
+                        "title": "文本",
+                        "right": 178.5,
+                        "bottom": 611.25,
+                        "vCenter": 128.25,
+                        "hCenter": 603.75,
+                        "field": "userName",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 271.5,
+                        "top": 624,
+                        "height": 15,
+                        "width": 69,
+                        "title": "様",
+                        "right": 341.25,
+                        "bottom": 612,
+                        "vCenter": 306.75,
+                        "hCenter": 604.5,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "fontSize": 11.25,
+                        "fontWeight": "bold",
+                        "letterSpacing": 3,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "长文",
+                        "type": "longText"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 15,
+                        "top": 639,
+                        "height": 9,
+                        "width": 325.5,
+                        "borderWidth": 0.75,
+                        "right": 226.5,
+                        "bottom": 623.25,
+                        "vCenter": 120.75,
+                        "hCenter": 618.75
+                    },
+                    "printElementType": {
+                        "title": "横线",
+                        "type": "hline"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 441,
+                        "top": 639,
+                        "height": 15,
+                        "width": 151.5,
+                        "title": "登録番号",
+                        "right": 591.75,
+                        "bottom": 627,
+                        "vCenter": 516,
+                        "hCenter": 619.5,
+                        "field": "loginNo",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 99,
+                        "top": 648,
+                        "height": 15,
+                        "width": 54,
+                        "title": "文本",
+                        "right": 170.25,
+                        "bottom": 636,
+                        "vCenter": 143.25,
+                        "hCenter": 628.5,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "field": "table03Value01",
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 172.5,
+                        "top": 648,
+                        "height": 15,
+                        "width": 54,
+                        "title": "文本",
+                        "right": 225.75,
+                        "bottom": 664.5,
+                        "vCenter": 198.75,
+                        "hCenter": 658.5,
+                        "field": "table03Value02",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 240,
+                        "top": 648,
+                        "height": 100,
+                        "width": 100,
+                        "field": "gaizhang",
+                        "fit": "",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "right": 339.25,
+                        "bottom": 721.75,
+                        "vCenter": 289.25,
+                        "hCenter": 671.75
+                    },
+                    "printElementType": {
+                        "title": "图片",
+                        "type": "image"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 441,
+                        "top": 655.5,
+                        "height": 15,
+                        "width": 151.5,
+                        "right": 593.25,
+                        "bottom": 643.5,
+                        "vCenter": 517.5,
+                        "hCenter": 636,
+                        "field": "Address01",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0,
+                        "hideTitle": true
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 99,
+                        "top": 663,
+                        "height": 15,
+                        "width": 54,
+                        "title": "文本",
+                        "right": 170.25,
+                        "bottom": 636,
+                        "vCenter": 143.25,
+                        "hCenter": 628.5,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "field": "table03Value03",
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 172.5,
+                        "top": 663,
+                        "height": 15,
+                        "width": 54,
+                        "title": "文本",
+                        "right": 225.75,
+                        "bottom": 664.5,
+                        "vCenter": 198.75,
+                        "hCenter": 658.5,
+                        "field": "table03Value04",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 16.5,
+                        "top": 664.5,
+                        "height": 15,
+                        "width": 49.5,
+                        "title": "金額 ：",
+                        "right": 66,
+                        "bottom": 667.5,
+                        "vCenter": 41.25,
+                        "hCenter": 646.5,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "fontSize": 12,
+                        "fontWeight": "bold"
+                    },
+                    "printElementType": {
+                        "title": "长文",
+                        "type": "longText"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 441,
+                        "top": 672,
+                        "height": 15,
+                        "width": 151.5,
+                        "right": 589.5,
+                        "bottom": 636,
+                        "vCenter": 513.75,
+                        "hCenter": 628.5,
+                        "field": "T",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0,
+                        "hideTitle": true
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 99,
+                        "top": 678,
+                        "height": 15,
+                        "width": 54,
+                        "title": "文本",
+                        "right": 170.25,
+                        "bottom": 636,
+                        "vCenter": 143.25,
+                        "hCenter": 628.5,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "field": "table03Value05",
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 172.5,
+                        "top": 678,
+                        "height": 15,
+                        "width": 54,
+                        "title": "文本",
+                        "right": 225.75,
+                        "bottom": 664.5,
+                        "vCenter": 198.75,
+                        "hCenter": 658.5,
+                        "field": "table03Value06",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 15,
+                        "top": 679.5,
+                        "height": 13.5,
+                        "width": 49.5,
+                        "title": "Amount",
+                        "right": 63.75,
+                        "bottom": 666.75,
+                        "vCenter": 39,
+                        "hCenter": 660,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "fontSize": 7.5
+                    },
+                    "printElementType": {
+                        "title": "长文",
+                        "type": "longText"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 441,
+                        "top": 688.5,
+                        "height": 15,
+                        "width": 151.5,
+                        "title": " ",
+                        "right": 592.5,
+                        "bottom": 676.5,
+                        "vCenter": 516.75,
+                        "hCenter": 669,
+                        "field": "Address02",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "fontSize": 7.5,
+                        "qrCodeLevel": 0,
+                        "hideTitle": true
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 15,
+                        "top": 693,
+                        "height": 9,
+                        "width": 211.5,
+                        "borderWidth": 0.75,
+                        "right": 104.25,
+                        "bottom": 674.25,
+                        "vCenter": 59.25,
+                        "hCenter": 669.75
+                    },
+                    "printElementType": {
+                        "title": "横线",
+                        "type": "hline"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 99,
+                        "top": 703.5,
+                        "height": 15,
+                        "width": 54,
+                        "title": "文本",
+                        "right": 170.25,
+                        "bottom": 636,
+                        "vCenter": 143.25,
+                        "hCenter": 628.5,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "field": "table04Value01",
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 172.5,
+                        "top": 703.5,
+                        "height": 15,
+                        "width": 54,
+                        "title": "文本",
+                        "right": 225.75,
+                        "bottom": 664.5,
+                        "vCenter": 198.75,
+                        "hCenter": 658.5,
+                        "field": "table04Value02",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 441,
+                        "top": 705,
+                        "height": 15,
+                        "width": 151.5,
+                        "title": "Tel",
+                        "right": 593.25,
+                        "bottom": 693.75,
+                        "vCenter": 517.5,
+                        "hCenter": 686.25,
+                        "field": "Tel",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 99,
+                        "top": 718.5,
+                        "height": 15,
+                        "width": 54,
+                        "title": "文本",
+                        "right": 170.25,
+                        "bottom": 636,
+                        "vCenter": 143.25,
+                        "hCenter": 628.5,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "field": "table04Value03",
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 172.5,
+                        "top": 718.5,
+                        "height": 15,
+                        "width": 54,
+                        "title": "文本",
+                        "right": 225.75,
+                        "bottom": 664.5,
+                        "vCenter": 198.75,
+                        "hCenter": 658.5,
+                        "field": "table04Value04",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 174,
+                        "top": 718.5,
+                        "height": 15,
+                        "width": 54,
+                        "title": "文本",
+                        "right": 225.75,
+                        "bottom": 664.5,
+                        "vCenter": 198.75,
+                        "hCenter": 658.5,
+                        "field": "table04Value06",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 15,
+                        "top": 720,
+                        "height": 15,
+                        "width": 49.5,
+                        "title": "内税 ：",
+                        "right": 64.5,
+                        "bottom": 708,
+                        "vCenter": 39.75,
+                        "hCenter": 700.5,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "fontSize": 12,
+                        "fontWeight": "bold"
+                    },
+                    "printElementType": {
+                        "title": "长文",
+                        "type": "longText"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 441,
+                        "top": 721.5,
+                        "height": 15,
+                        "width": 151.5,
+                        "title": "Fax",
+                        "right": 591.75,
+                        "bottom": 711,
+                        "vCenter": 516,
+                        "hCenter": 703.5,
+                        "field": "Fax",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 99,
+                        "top": 733.5,
+                        "height": 15,
+                        "width": 54,
+                        "title": "文本",
+                        "right": 170.25,
+                        "bottom": 636,
+                        "vCenter": 143.25,
+                        "hCenter": 628.5,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "field": "table04Value05",
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 172.5,
+                        "top": 733.5,
+                        "height": 15,
+                        "width": 54,
+                        "title": "文本",
+                        "right": 225.75,
+                        "bottom": 664.5,
+                        "vCenter": 198.75,
+                        "hCenter": 658.5,
+                        "field": "table04Value06",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "hideTitle": true,
+                        "qrCodeLevel": 0,
+                        "textAlign": "right"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 15,
+                        "top": 735,
+                        "height": 13.5,
+                        "width": 75,
+                        "title": "Sales Tax&Hotel Tax",
+                        "right": 63.75,
+                        "bottom": 666.75,
+                        "vCenter": 39,
+                        "hCenter": 660,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "fontSize": 7.5
+                    },
+                    "printElementType": {
+                        "title": "长文",
+                        "type": "longText"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 441,
+                        "top": 738,
+                        "height": 15,
+                        "width": 151.5,
+                        "title": "Email",
+                        "right": 591.75,
+                        "bottom": 726,
+                        "vCenter": 516,
+                        "hCenter": 718.5,
+                        "field": "Email",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 15,
+                        "top": 748.5,
+                        "height": 9,
+                        "width": 211.5,
+                        "borderWidth": 0.75
+                    },
+                    "printElementType": {
+                        "title": "横线",
+                        "type": "hline"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 15,
+                        "top": 750,
+                        "height": 15,
+                        "width": 120,
+                        "title": "ご利用金額(税込)",
+                        "right": 137.25,
+                        "bottom": 739.5,
+                        "vCenter": 77.25,
+                        "hCenter": 732,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0,
+                        "fontSize": 11.25,
+                        "fontWeight": "bold"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 441,
+                        "top": 754.5,
+                        "height": 15,
+                        "width": 151.5,
+                        "title": "URL",
+                        "right": 594.75,
+                        "bottom": 742.5,
+                        "vCenter": 519,
+                        "hCenter": 735,
+                        "field": "URL",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 156,
+                        "top": 762,
+                        "height": 15,
+                        "width": 70.5,
+                        "right": 226.5,
+                        "bottom": 778.5,
+                        "vCenter": 191.25,
+                        "hCenter": 771,
+                        "field": "zuoxia01",
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0,
+                        "hideTitle": true
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 241.5,
+                        "top": 762,
+                        "height": 15,
+                        "width": 96,
+                        "title": "但し",
+                        "right": 334.5,
+                        "bottom": 750,
+                        "vCenter": 286.5,
+                        "hCenter": 742.5,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 13.5,
+                        "top": 765,
+                        "height": 10.5,
+                        "width": 126,
+                        "title": "Total Charge*Tax included",
+                        "right": 136.5,
+                        "bottom": 780,
+                        "vCenter": 76.5,
+                        "hCenter": 772.5,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0,
+                        "fontSize": 6.75,
+                        "fontWeight": "bold"
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 13.5,
+                        "top": 777,
+                        "height": 9,
+                        "width": 213,
+                        "borderWidth": 0.75,
+                        "right": 339,
+                        "bottom": 762,
+                        "vCenter": 177.75,
+                        "hCenter": 757.5
+                    },
+                    "printElementType": {
+                        "title": "横线",
+                        "type": "hline"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 241.5,
+                        "top": 777,
+                        "height": 9,
+                        "width": 97.5,
+                        "borderWidth": 0.75,
+                        "right": 329.25,
+                        "bottom": 759,
+                        "vCenter": 284.25,
+                        "hCenter": 754.5
+                    },
+                    "printElementType": {
+                        "title": "横线",
+                        "type": "hline"
+                    }
+                },
+                {
+                    "options": {
+                        "left": 13.5,
+                        "top": 778.5,
+                        "height": 15,
+                        "width": 324,
+                        "title": "上記金額を正に領収いたしました(消費税を含みます)",
+                        "right": 339.75,
+                        "bottom": 767.25,
+                        "vCenter": 177.75,
+                        "hCenter": 759.75,
+                        "coordinateSync": false,
+                        "widthHeightSync": false,
+                        "qrCodeLevel": 0
+                    },
+                    "printElementType": {
+                        "title": "文本",
+                        "type": "text"
+                    }
+                }
+            ],
+            "paperNumberLeft": 565,
+            "paperNumberTop": 819,
+            "paperNumberContinue": true,
+            "overPrintOptions": {},
+            "watermarkOptions": {}
+        }
+    ]
+}

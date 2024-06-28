@@ -1,0 +1,54 @@
+{
+  "issueDate": "2025年01月01日",
+  "summonsNumber": "123456789",
+  "postalSymbol": "123-456",
+  "registrationNumber": "11223344",
+  "address": "OO県OO市",
+  "specificAddress": "OO X-X-X",
+  "companyName": "OOOOOO",
+  "branch": "XXXXX",
+  "branchAddress": "OO県OO市OO X-X-X",
+  "tel": "(03)-19000-9000",
+  "email": "info@test.com",
+  "totalAmount": "1089286",
+  "table": [
+    {
+      "productName": "OOOOOO　サンプル作業01",
+      "quantity": "100",
+      "unitPrice": "770",
+      "amount": "77000"
+    },
+    {
+      "productName": "XXXXXX　サンプル作業02",
+      "quantity": "100",
+      "unitPrice": "670",
+      "amount": "67000"
+    },
+    {
+      "productName": "□□□□□□　サンプル作業03",
+      "quantity": "1",
+      "unitPrice": "10706",
+      "amount": "10706"
+    },
+    {
+      "productName": "▲▲▲▲▲▲　サンプル作業04",
+      "quantity": "10",
+      "unitPrice": "50000",
+      "amount": "500000"
+    },
+    {
+      "productName": "▲▲□□XO　サンプル作業05",
+      "quantity": "100",
+      "unitPrice": "3355.54",
+      "amount": "335554"
+    }
+  ],
+  "bankBranch": "OOOOOO",
+  "bank": "OOOOOO",
+  "subtotal": "990260",
+  "cardNumber": "OOOOOO",
+  "ordinary": "123456789",
+  "consumptionTax": "99026",
+  "paymentTerm": "2027年01月01",
+  "remarks": "ここに説明が必要な備考情報を記入します。"
+}
